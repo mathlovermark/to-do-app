@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+This To-DO project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can enlist your to do in this app. Kindly visit the link through here: https://react-to-do-app-ucc.herokuapp.com/
+
 
 ## Available Scripts
 
